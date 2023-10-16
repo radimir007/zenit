@@ -1,1 +1,1 @@
-# zenit_2023
+# Zenit
